@@ -11,4 +11,4 @@ else
    echo "nie znam cie" 
 fi 
 
-echo $imie;
+echo " Witaj $imie";
